@@ -1,0 +1,22 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "cli file-manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node . --username=John_Doe index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhenyaDope/file-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhenyaDope/file-manager/issues"
+  },
+  "homepage": "https://github.com/ZhenyaDope/file-manager#readme"
+}
